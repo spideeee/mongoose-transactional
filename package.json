@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-transactional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spideeee/mongoose-transactional.git"
+  },
+  "keywords": [
+    "mongoose",
+    "transaction"
+  ],
+  "author": "Salim Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spideeee/mongoose-transactional/issues"
+  },
+  "homepage": "https://github.com/spideeee/mongoose-transactional#readme",
+  "dependencies": {
+    "mongoose": "^5.6.8"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
